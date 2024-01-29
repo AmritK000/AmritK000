@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AmritK000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AmritK000/AmritK000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @AmritKaur
+- 👀 I’m interested in web development, especially in the MERN stack (MongoDB, Express.js, React, Node.js).
+- 🌱 I’m currently learning full-stack development and enhancing my skills in JavaScript.
+- 💞️ I’m looking to collaborate on open-source projects or any exciting web development initiatives.
+- 📫 How to reach me: [insert your preferred contact method or social media profile here]
